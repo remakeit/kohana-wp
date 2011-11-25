@@ -1,0 +1,30 @@
+[submodule "kohana/system"]
+	path = kohana/system
+	url = https://github.com/remakeit/kohana-core-wp.git
+[submodule "kohana/modules/auth"]
+	path = kohana/modules/auth
+	url = https://github.com/kohana/auth.git
+[submodule "kohana/modules/cache"]
+	path = kohana/modules/cache
+	url = https://github.com/kohana/cache.git
+[submodule "kohana/modules/codebench"]
+	path = kohana/modules/codebench
+	url = https://github.com/kohana/codebench.git
+[submodule "kohana/modules/database"]
+	path = kohana/modules/database
+	url = https://github.com/kohana/database.git
+[submodule "kohana/modules/image"]
+	path = kohana/modules/image
+	url = https://github.com/kohana/image.git
+[submodule "kohana/modules/orm"]
+	path = kohana/modules/orm
+	url = https://github.com/kohana/orm.git
+[submodule "kohana/modules/unittest"]
+	path = kohana/modules/unittest
+	url = https://github.com/kohana/unittest.git
+[submodule "kohana/modules/userguide"]
+	path = kohana/modules/userguide
+	url = https://github.com/kohana/userguide.git
+[submodule "kohana/modules/kostache"]
+	path = kohana/modules/kostache
+	url = https://github.com/zombor/KOstache.git
