@@ -28,6 +28,3 @@
 [submodule "kohana/modules/kostache"]
 	path = kohana/modules/kostache
 	url = https://github.com/zombor/KOstache.git
-[submodule "wordpress"]
-	path = wordpress
-	url = https://github.com/markjaquith/WordPress.git
